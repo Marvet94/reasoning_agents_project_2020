@@ -1,0 +1,18 @@
+XXXXXXXXXX
+XO OXXO OX
+X   XX   X
+X   XX   X
+XX XXXX XX
+XX XXXX XX
+XX XXXX XX
+XX XXXX XX
+XXA     XX
+XX XXXXXXX
+XX XXXXXXX
+XX XXXXXXX
+XX XX
+X   X
+X   X
+XP PX
+XXXXX
+Rooms: [[(0,0),(4,4)],[(0,5),(4,9)],[(5,0),(11,8)],[(12,0),(16,4)]]
