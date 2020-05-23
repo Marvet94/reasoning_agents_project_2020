@@ -14,12 +14,7 @@ This code is meant to be a clean and usable version of our approach. If you find
 
 
 ## Installation instructions
-
-You can clone this repository by running:
-
-    git clone https://bitbucket.org/RToroIcarte/lrm.git
-
-Our code requires [Python3.5](https://www.python.org/) with [numpy](http://www.numpy.org/) and [tensorflow v1.2](https://www.tensorflow.org/). We **do not** recommend using Python3.6 since its *multiprocessing* module is unreliable (we learned this the hard way :grimacing:).
+Clone the repository and be sure to use the following package versions:[Python3.5](https://www.python.org/) with [numpy](http://www.numpy.org/) and [tensorflow v1.2](https://www.tensorflow.org/). We **do not** recommend using Python3.6 since its *multiprocessing* module is unreliable (we learned this the hard way :grimacing:).
 
 
 ## Running examples
@@ -51,7 +46,3 @@ python3 symbol_world.py
 ```
 
 To control the agent, use the WASD keys. The environments are described in the paper.
-
-## Acknowledgments
-
-The implementation of all our approaches is based on the DQN baseline code from [OpenAI](https://github.com/openai/baselines). We encourage you to check out their repository too :)
