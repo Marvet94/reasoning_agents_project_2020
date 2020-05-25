@@ -1,5 +1,5 @@
 # Reasoning agents project - 2019/2020 
-# Francesco Caputo, Riccardo Gozzovelli, Mario Vetrini
+_**Francesco Caputo, Riccardo Gozzovelli, Mario Vetrini**_
 
 **Learning Reward Machines for Partially Observable Reinforcement Learning**
 
@@ -16,7 +16,18 @@ original problem. We show the effectiveness of this approach on three partially
 observable domains, where it significantly outperforms A3C, PPO, and ACER, and
 discuss its advantages, limitations, and broader potential.
 
+
+    @inproceedings{tor-etal-neurips19,
+        author    = {Toro Icarte, Rodrigo and Waldie, Ethan and Klassen, Toryn Q. and Valenzano, Richard and Castro, Margarita P. and McIlraith, Sheila A.},
+        title     = {Learning Reward Machines for Partially Observable Reinforcement Learning},
+        booktitle = {Proceedings of the 33rd Conference on Neural Information Processing Systems (NeurIPS)},
+        year      = {2019},
+        pages     = {15497--15508}
+    }
+    
+
 **Content**
+
 This repository is used as a container for sharing the presentation (.pptx and .pdf) of the scientific paper previously listed, together with the original code that was used for it (link to the Bitbucket repository is contained in the paper itself). 
 We provided for the code above a new possible use case, more realistic than the toy problem used by the original authors, to check whether RMs  can also be applied for more complex problems.
 
